@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://umutgok.github.io/deneme3//sitemap.xml
